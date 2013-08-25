@@ -1,0 +1,5 @@
+*.swp
+.idea
+atlassian-ide-plugin.xml
+*.iml
+node_modules
